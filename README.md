@@ -1,4 +1,4 @@
 # HelloGit
-Repo to test Various Git magic
+Repo to test various Git magic
 
 MAGIC
